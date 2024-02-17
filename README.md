@@ -23,4 +23,4 @@ We need to search a 7 dimensional space for an optimal strategy, and only use th
 
 To do this, we first select random numbers of options to see if the distribution conforms to the percentile requirements, and if it does, we search the space around the point to see if there are better solutions there.
 
-Feel free to look at our [presentation](https://drive.google.com/file/d/1GYFjzHbPhA_7oMo9j-cAcr8FF68yC17O/view?usp=sharing) in Hungarian.
+Feel free to take a look at our [presentation](https://drive.google.com/file/d/1GYFjzHbPhA_7oMo9j-cAcr8FF68yC17O/view?usp=sharing) in Hungarian.
